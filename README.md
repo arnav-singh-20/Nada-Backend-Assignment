@@ -106,4 +106,4 @@ Handlers stay simple: they parse input, call the store or path finder, and retur
 
 ## AI tools used
 
-I built this with **Claude Code (Claude Opus 5.5)**, Anthropic's CLI coding agent. It read the assignment PDF, proposed the structure, wrote the code, tests and this README, and ran the build and a curl smoke test. During that smoke test it found and fixed a bug: Jackson closed the request stream, so POST responses were never sent. I reviewed the code and can explain and change any part of it.
+AI assistance: I used Claude Code to help run and review test cases and to spot bugs during development. I reviewed and understood all changes before including them.
