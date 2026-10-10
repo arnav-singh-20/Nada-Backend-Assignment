@@ -106,4 +106,4 @@ Handlers stay simple: they parse input, call the store or path finder, and retur
 
 ## AI tools used
 
-AI assistance: I used Claude Code to help run and review test cases and to spot bugs during development. I reviewed and understood all changes before including them.
+AI assistance: I used coding assistants to help run and review test cases and to spot bugs during development. I reviewed and understood all changes before including them.
